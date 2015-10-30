@@ -1,0 +1,23 @@
+name: Harrison Christensen
+favicon: null
+layout_spectrum: 0.0684516376350075
+typography_spectrum: 0.2646937125828117
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.41119025042280555
+  lightness: 0.7325503081083298
+  saturation: 0.3445674784015864
+  rhythmicContrast: 0.9362755210604519
+purpose: []
