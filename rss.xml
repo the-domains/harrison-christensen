@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[www.HarrisonChristensen.com]]></title>
         <description><![CDATA[www.HarrisonChristensen.com]]></description>
-        <link>http://www.harrisonchristensen.com/</link>
+        <link>http://harrisonchristensen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 00:47:19 GMT</lastBuildDate>
-        <atom:link href="http://www.harrisonchristensen.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 19:51:56 GMT</lastBuildDate>
+        <atom:link href="http://harrisonchristensen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello!! ]]></title>
             <description><![CDATA[<p>Hello internet! I am excited to finally have my own website as a place to share not only my personal experiences but business ventures. I want to first introduce a little about myself. </p>]]></description>
-            <link>http://www.harrisonchristensen.com/hello/index.html</link>
+            <link>http://harrisonchristensen.com/hello/index.html</link>
             <guid isPermaLink="false">9341eaff-3134-47d4-bd8e-be68d61b5873</guid>
-            <pubDate>Fri, 06 May 2016 00:47:05 GMT</pubDate>
+            <pubDate>Fri, 06 May 2016 19:51:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
